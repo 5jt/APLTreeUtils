@@ -1,12 +1,13 @@
 # APLTreeUtils
 
-Version 4.0 uploaded on 2016-09-21
+For a project history see http://aplwiki.com/APLTreeUtils/ProjectPage
 
-## Note: 
+Latest version is 4.0.0
 
-* For using APLTreeUtils go to http://download.aplwiki.com or use ftp://ftp.aplwiki.com for automated downloads via FTP with user-id "anonymous" - there is no need for providing a password but you will have read-only access.
+## Contributing
 
-* If you want to contribute to the APLTreeUtils project then...
+The sole purpose of this repository is to make contributions as easy as possible:
+
   1. clone the repository.
   2. load the WS.
   3. make your changes.
@@ -14,4 +15,13 @@ Version 4.0 uploaded on 2016-09-21
   5. Run the test cases. (For all APLTree sub-projects that means execute `#.TestCases.RunDebug 0`)
   6. Perform a pull request.
 
-  The authorities will then check your changes / additions and either discuss or incorporate them.
+Your changes / additions will then be checked and either discussed or incorporated.
+
+## Usage 
+
+For using it you have to options:
+
+* Download it from http://download.aplwiki.com 
+* Use ftp://ftp.aplwiki.com in order to automate the download via FTP. 
+  
+  Provide "anonymous" as user-id; there is no need for a password but you will have just read-only access.

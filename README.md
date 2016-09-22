@@ -6,7 +6,7 @@ Latest version is 4.0.0
 
 ## Contributing
 
-The sole purpose of this repository is to make contributions as easy as possible. We 
+The sole purpose of this repository is to make contribution as easy as possible. We use the [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). 
 
   1. Fork the repository in GitHub and clone to your local machine.
   2. Load the WS.
